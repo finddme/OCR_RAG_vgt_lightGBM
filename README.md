@@ -17,5 +17,5 @@ python app.py
 
 ```
 cd app
-streamlit run streamlit_fastapi.py --server.port 8778
+streamlit run streamlit_fastapi.py --server.port 'port number'
 ```
