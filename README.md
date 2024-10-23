@@ -40,7 +40,7 @@ streamlit run streamlit_fastapi.py --server.port 'port number'
 
 ### 표 정보 retreival
 
-<center><img width="400" src="https://github.com/user-attachments/assets/4ba5af82-0f89-4eae-ab3f-7fd2344ade33"></center>
+<center><img width="600" src="https://github.com/user-attachments/assets/4ba5af82-0f89-4eae-ab3f-7fd2344ade33"></center>
 
 - Query: 2022년부터 2024년 매출액 알려줘<br>
 - Response :
@@ -58,8 +58,8 @@ streamlit run streamlit_fastapi.py --server.port 'port number'
 
 - 가로형 pdf + 그림 내부 text에 대한 retreival
   
-<center><img width="400" src="https://github.com/user-attachments/assets/04d31238-aa4d-47e2-99d3-d9e35020e6df"></center>
+<center><img width="600" src="https://github.com/user-attachments/assets/04d31238-aa4d-47e2-99d3-d9e35020e6df"></center>
 
 - 형식 없는 pdf
   
-<center><img width="400" src="https://github.com/user-attachments/assets/65fe6066-2238-4e19-bbea-d5775582a5e2"></center>
+<center><img width="600" src="https://github.com/user-attachments/assets/65fe6066-2238-4e19-bbea-d5775582a5e2"></center>
